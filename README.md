@@ -16,7 +16,7 @@
   <header class="bg-gray-600 bg-opacity-80 text-white shadow">
     <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
       <div class="flex items-center space-x-3">
-        <img src="images/logorr.png" class="h-24 w-24 rounded-full" />
+        <img src="logorr.png" class="h-24 w-24 rounded-full" />
         <h1 class="text-2xl font-bold">RR Guinchos</h1>
       </div>
       <nav class="space-x-6">
