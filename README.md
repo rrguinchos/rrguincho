@@ -7,7 +7,7 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="style.css">
-  <link rel="icon" type="image/png" href="logorr.png" >
+  <link rel="icon" href="logorr.png" type="image/x-icon"> 
  
 </head>
 <body class="bg-cover bg-center text-gray-800 font-sans" style="background-image: url('fundo.jpg');">
